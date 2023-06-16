@@ -1,0 +1,28 @@
+.offer {
+    height: 80vh;
+    background-image: url(../../images/backgrouds/offer__w.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center; 
+    line-height: 2;
+}
+
+.offer-content {
+    color: #fff;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10% 0;
+    line-height: 1.5;
+       
+}
+.offer-content h2 {
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Permanent Marker', cursive;
+    color: #fff;
+    font-size: 32px;
+    margin-bottom: 50px;
+}

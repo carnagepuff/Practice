@@ -1,0 +1,8 @@
+.main-clients {
+    background-color: #f5f5f6
+}
+
+.inner-clients {
+    /* display: flex; */
+    justify-content: space-between;
+}

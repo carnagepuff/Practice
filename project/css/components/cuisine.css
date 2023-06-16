@@ -1,0 +1,45 @@
+.main-cuisine {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.cuisine-block{
+    width: 45%;
+    text-align: left;
+    line-height: 2;
+}   
+
+.cuisine-bg {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.cuisine-bg img {
+    width: 45%;
+}
+
+.section-top-title.cuisine-block h4 {
+    font-weight: 500;
+    font-size: 51px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+}
+
+.cuisine-block p{
+    weight: 120px;
+    padding-right: 40px;
+    font-size: 18px;
+    padding-left: initial;
+    
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+}
+
+.cuisine-block .section-top-title {
+    text-align: left;
+}

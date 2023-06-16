@@ -1,0 +1,65 @@
+.main-career {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.career-block{
+    width: 45%;
+    text-align: left;
+    line-height: 2;
+}   
+
+.career-bg {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.career-bg img {
+    width: 45%;
+    height: 500px;
+    width: 500px;
+}
+
+.career-block h3 {
+    font-size: 51px;
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    color: black;
+}
+.career-block h4 {
+    text-align: center;
+    color: #bbbdba;
+    line-height: 1.5;
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+}
+.career-block h5 {
+    font-size: 32px;
+    font-style: normal;
+    color: black;
+}
+.career-block p{
+    weight: 100px;
+    padding-right: 40px;
+    font-size: 14px;
+    padding-left: initial;
+    
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+}
+.career-block a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    text-align: center;
+}
+.career-block a:hover {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #434f53;
+}
+
+

@@ -1,0 +1,64 @@
+.main-counter {
+    /* margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-size: contain;
+    background-position: center center; */
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.counter-content {
+    text-align: center;
+    line-height: 1.5;
+}
+
+.section-top-title  h4 {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+    color: #262724;
+}
+.counter-item h4{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Montserrat', sans-serif;
+    color: #fe562e;
+    font-size: 70px;
+    line-height: 1.1;
+}
+
+.main-counter p {
+    color: #bbbdba;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.counter-item {
+    width: calc(100% / 3 - 3%);
+    line-height: 2;
+    color: black;
+}
+
+.counter-item p{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+    color: #262724;
+    font-size: 30px;
+    line-height: 2.6;
+}
+

@@ -1,0 +1,55 @@
+.main-feedback {
+    background-image: url('../../images/backgrouds/mt-galery_5_timeline.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    z-index: 1;
+}
+.feedback-content {
+    color: #fff;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20% 0;
+    line-height: 1.5;
+}
+
+.section-top-title h4 {
+    color: #fff;
+}
+
+.feedback-content p {
+    /* color: #bbbdba; */
+    color: #fff;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.template-item.inner-feedback {
+    width: calc(100% / 4 - 3%);
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.feedback-item p {
+    color:#fff;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 50px;
+    line-height: 1.4;
+}
+
+.feedback-item h3 {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.4;
+    text-align: center;
+}

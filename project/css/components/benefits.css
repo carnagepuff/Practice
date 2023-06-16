@@ -1,0 +1,60 @@
+.benefits {
+    background-image: url('../../images/backgrouds/benefits.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    z-index: 1;
+}
+.benefits-content {
+    color: #fff;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 8% 0;
+    line-height: 1.5;
+}
+
+.section-top-title h4 {
+    color: #fff;
+}
+
+.benefits p {
+    /* color: #bbbdba; */
+    color: #ffffff;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.template-item.benefits-item {
+    width: calc(100% / 4 - 3%);
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 1.5;
+    color: #fff;
+}
+
+.benefits-item a{
+    /* display: block; */
+    text-align: center;
+    margin: 20px 0;
+    color: #fff;
+    font-size: 30px;
+    transition: .5s;
+    line-height: 2.2;
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+}
+
+.benefits-item img{
+    width: 100px;
+    height: 100px;
+    color: #fe562e;
+    font-size: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    }

@@ -1,0 +1,61 @@
+.main-people {
+    /* background-attachment: fixed;
+    background-size: cover; */
+    /* background-position: bottom; */
+    background-color:#f9f4e5;
+    position: relative;
+    /* width: 100%; */
+    /* z-index: 1; */
+}
+
+.people-content {
+    text-align: left;
+    /* width: 100%; */
+    margin: 0 auto;
+    padding: 10% 0;
+    line-height: 1.5;
+}
+.people-content p {
+    text-align: center;
+    color: #bbbdba;
+    /* margin: 0 auto;
+    padding: 2% 0;  */
+    line-height: 1.5;
+}
+.section-top-title h4 {
+    font-weight: 400;
+    font-style: normal;
+    color:black;
+}
+
+.people-item {
+    width: calc(100% / 3 - 3%);
+    line-height: 3;
+    color: #fff;
+    text-align: left;
+}
+
+.people-item p {
+    color: #bbbdba;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 16px;
+    margin-bottom: 50px;
+    line-height: 2;
+}
+
+.people-item h4{
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+    color: #262724;
+    font-size: 22px;
+    
+    line-height: 2.2;
+    text-align: left;
+}
+
+
+.inner-people.wrap {
+    margin-top: 80px;
+}

@@ -1,0 +1,56 @@
+.main-gourmet {
+    /* height: 100vh; */
+    background-image: url('../../images/backgrouds/mt-0641_01_home_background.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.gourmet-block {
+    width: 50%;
+}
+
+.gourmet-content{
+    padding-bottom: 15px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #7d7d7d;
+    text-align: left;
+    line-height: 1.5;
+    position: relative;
+    
+    width: 50%;
+
+}   
+
+.gourmet-content h4 {
+    font-size: 12px;
+    line-height: 2.8;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    color: #bbbdba;
+    
+}
+.gourmet-content h3 {
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Abril Fatface', display;
+    color: #434f53;  
+    font-size: 48px;
+    line-height: 2.2;
+    text-align: left;
+}
+.gourmet-content p{
+    weight: 100px;
+    padding-right: 40px;
+    font-size: 14px;
+    padding-left: initial;
+    
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+    
+}

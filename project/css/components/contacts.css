@@ -1,0 +1,97 @@
+.main-contacts {
+    /* background-attachment: fixed;
+    background-size: cover; */
+    /* background-position: bottom; */
+    background-color:#f9f4e5;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    /* width: 100%; */
+    /* z-index: 1; */
+}
+.contacts-content p {
+    text-align: center;
+    color: #bbbdba;
+    /* margin: 0 auto;
+    padding: 2% 0;  */
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+}
+.contacts-content {
+    /* text-align: left; */
+    /* width: 100%; */
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 1.5;
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-left: 18px;
+    padding-right: 18px;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    background-size: contain;
+}
+
+.section-top-title h4 {
+    font-weight: 400;
+    font-style: normal;
+    color:black;
+}
+
+.contacts-item {
+    width: calc(100% / 3 - 3%);
+    line-height: 3;
+    color: #fff;
+    text-align: left;
+}
+
+.contacts-item h5{
+    font-style: normal;
+    color: #bbbdba;
+    font-size: 14px;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.contacts-item p {
+    color: #262724;
+    text-align: left;
+    font-size: 16px;
+}
+
+.contacts-item a {
+    color: #fe562e;
+}
+
+.contacts-content img {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.maps {
+    width: 100%;
+}
+
+.maps iframe {
+    width: 100%;
+}

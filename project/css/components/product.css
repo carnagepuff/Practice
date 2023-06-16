@@ -1,0 +1,38 @@
+.main-product {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product {
+    background-image: url('/images/backgrouds/mt-0641_01_home_featured_product.jpg');
+    background-size: cover;
+    height: 300px;
+    position: relative;
+}
+
+.inner-product {
+    width: 45%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.inner-product h3 {
+    font-weight: 500;
+    font-size: 30px;
+    color: #42464f;
+    margin-bottom: 20px;
+}
+
+.inner-product .btn {
+    margin: 20px 0;
+}
+
+.inner-product h4 {
+    color: #fe562e;;
+}
+
+.inner-product p {
+    font-size: 14px;
+    color: #658997;;
+}
